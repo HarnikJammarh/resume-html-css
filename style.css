@@ -1,0 +1,16 @@
+body {
+    background-color:beige;
+    color: darkgreen;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    padding-left: 28%;
+    padding-right: 28%;
+}
+
+h2 {
+    color: red;
+    text-decoration: underline;
+}
